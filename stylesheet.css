@@ -1,0 +1,232 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#division1{
+    background-color: #e4f9f5;
+    padding-top: 40px;
+}
+
+#cloud1{
+    position: relative;
+    left: 1445px;
+}
+
+#myName{
+    text-align: center;
+    padding: 100px;
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+    font-size: 562.5%;
+}
+
+#description{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    padding-bottom: 10px;
+}
+
+#cloud2{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+#mountain{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#profilepicture{
+    margin-top: 50px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+    #hello{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    padding-bottom: 10px;
+    text-align: center;
+    margin-top: 40px;
+    }
+
+#txt1{
+    margin-top: 25px;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#txt11{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#skills{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    padding-bottom: 10px;
+    text-align: center;
+  margin-top: 40px;
+    margin-top: 250px;  
+}
+
+.cards{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    margin-top: 100px;
+}
+
+.imgs{
+    width: 25%;
+    float: left;
+    margin: auto 30px auto 30px;
+}
+
+#dand{
+    color: #11999E;
+    font-family: Montserrat, sans-serif;
+    color: rgb(17, 153, 158);
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+#txt2{
+    color: purple;
+    font-size: 1.25em;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    line-height: 38px;
+    font-family: 'Merriweather', serif;
+}
+
+#uiandux{
+    color: #11999E;
+    font-family: Montserrat, sans-serif;
+    font-size: 1.17em;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#txt3{
+    color: purple;
+    font-size: 1em;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    line-height: 38px;
+    font-family: 'Merriweather', serif;
+}
+
+#imgimg{
+    float: right;
+    margin: auto;
+}
+
+#card2{
+    width: 750px;
+}
+
+#contactimg{
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 40px;
+    margin-top: 250px;  
+}
+
+#git{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    padding-bottom: 10px;
+    display: block;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    text-align: center;
+}
+
+#lovestuff{
+    color: maroon;
+    padding-bottom: 50px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#talking{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#vgicon{
+    float: right;
+    position: relative;
+    bottom: 10px;
+}
+
+    footer{
+        text-align: center;
+        background-color: #2874f0;
+        font-size: 15px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        font-family: 'Lato', sans-serif;
+        color: white;
+    }
+
+    #mailstuff{
+        color:black
+    }
+
+    #btn{
+        display: block;
+        text-align: center;
+        background: #2874f0;
+        margin-left: auto;
+        margin-right: auto;
+        width: 140px;
+        background-image: linear-gradient(to bottom, #2874f0, f#2874f0);
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    }
